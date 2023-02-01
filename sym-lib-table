@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "451-00001")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/451-00001.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "DX07S024XJ1R1100")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/DX07S024XJ1R1100.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "DF17_4.0_-30DS-0.5V_57_")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/DF17_4.0_-30DS-0.5V_57_.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "503480-0600")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/503480-0600.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "503480-0400")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/503480-0400.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "503480-1000")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/503480-1000.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "IIS2DLPCTR")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/IIS2DLPCTR.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "3341")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/3341.kicad_sym")(options "")(descr "")(disabled))
+)
