@@ -7,4 +7,5 @@
   (lib (name "503480-1000")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/503480-1000.kicad_sym")(options "")(descr "")(disabled))
   (lib (name "IIS2DLPCTR")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/IIS2DLPCTR.kicad_sym")(options "")(descr "")(disabled))
   (lib (name "3341")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/3341.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "NCP167BMX330TBG")(type "KiCad")(uri "${KIPRJMOD}/Libs/Symbols/NCP167BMX330TBG.kicad_sym")(options "")(descr ""))
 )
